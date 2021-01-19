@@ -1,2 +1,2 @@
 # Matrix-Multiplier
-A program that multiplies two matrices of any size
+A program that multiplies two matrices of any size. It first asks for the dimensions of each matrix. It then checks to see if each dimension is greater than zero and that the column of matrix one and row of matrix two match, meaning that the matrices can be multiplied. If not, it will ask the user for the dimensions of the matrices until these two parameters are fulfilled. Once they are fulfilled, it will then ask the user to input the numbers that are inside each matrix, and it will verify if there are too many or too little entered. Once the proper amount of numbers are entered for both matrices, it will print out each matrix and the resulting matrix of their multiplication. 
